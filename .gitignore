@@ -1,0 +1,6 @@
+Manifest.toml
+apunte-numerico.pdf
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.vscode/
